@@ -1,6 +1,6 @@
 {
-  "name": "kar",
-  "version": "1.0.0",
+  "name": "@lzcwds/jsInterface",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
